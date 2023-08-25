@@ -1,6 +1,3 @@
-Влючить и настроить доноэтипный вывод (надо разобраться с двухвакторкой)
-Enable Fast Withdraw Switch надо чекнуть нужно ли это
-Как называется кошелек в созраненных, надо чекнуть нужно ли это
 https://www.binancezh.top/en/support/faq/how-to-create-api-keys-on-binance-360002502072
 python -m pip install git+https://github.com/binance/binance-connector-python.git
 Надо чтобы на аккаунте уже был сдлелан хотя бы 1 круг
